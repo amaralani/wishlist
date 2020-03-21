@@ -1,0 +1,13 @@
+version: "3.3"
+services:
+  redis:
+    image: redis
+  pg:
+    image: postgres
+    environment:
+      - POSTGRES_USER=wishlist
+      - POSTGRES_PASSWORD=wishlistpass
+    ports:
+      - 5432:5432
+    volumes:
+      - ${WISHLIST_DATA_DIR}/db:/var/lib/postgresql/data

@@ -1,0 +1,2 @@
+id;username;password;f_name;l_name;email;tz_id;enabled;locked;cred_expired;lang;created_by;last_modified_by
+1;root;$2a$08$PWNccQ0.CGR7EPpeiiAcBOzVhcERmNr1b/4cIU8roMGuOj6Pfso0.;Administrator;Administrator;admin@localhost;Asia/Tehran;true;false;false;en;system;system

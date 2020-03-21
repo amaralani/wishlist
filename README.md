@@ -1,0 +1,1 @@
+Based on [spring-boot-vuejs](https://github.com/jonashackt/spring-boot-vuejs).
