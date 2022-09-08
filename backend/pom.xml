@@ -20,7 +20,7 @@
 		<!-- backend dependencies -->
 		<rest-assured.version>4.2.0</rest-assured.version>
 
-		<postgresql.version>42.2.11</postgresql.version>
+		<postgresql.version>42.4.1</postgresql.version>
 		<liquibase-core.version>3.6.3</liquibase-core.version>
 
 		<libphonenumber.version>8.10.14</libphonenumber.version>
